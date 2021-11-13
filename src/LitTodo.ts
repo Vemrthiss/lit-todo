@@ -66,6 +66,8 @@ export class LitTodo extends LitElement {
         </a>
       </main>
 
+      <create-todo></create-todo>
+
       <p class="app-footer">
         🚽 Made with love by
         <a
